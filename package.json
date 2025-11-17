@@ -2,7 +2,7 @@
     "name": "moos-ivp-editor",
     "displayName": "MOOS-IvP Editor",
     "description": "Syntax highlighting for MOOS-IvP configuration files.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "MIT",
     "publisher": "moos-ivp",
     "repository": {
