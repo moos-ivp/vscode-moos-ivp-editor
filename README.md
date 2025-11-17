@@ -1,5 +1,7 @@
 # MOOS-IvP Editor for VS Code
 
+[![CI/CD](https://github.com/moos-ivp/vscode-moos-ivp-editor/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/moos-ivp/vscode-moos-ivp-editor/actions/workflows/ci-cd.yml)
+
 The MOOS-IvP Editor extension for Visual Studio Code adds syntax highlighting for MOOS
 mission files, IvP behaviors files, and NSPlug files. Syntax highlighting
 has limited error detection. Semantic highlighting may be added in the 
